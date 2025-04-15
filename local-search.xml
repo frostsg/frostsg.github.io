@@ -4,6 +4,37 @@
   
   
   <entry>
+    <title>Advanced Web Attacks and Exploitation (WEB-300) Review</title>
+    <link href="/2025/04/15/oswe/"/>
+    <url>/2025/04/15/oswe/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/images/OSWE_badge.png" alt="OSWE Badge"></p><h2 id="What-is-the-AWAE"><a href="#What-is-the-AWAE" class="headerlink" title="What is the AWAE?"></a><strong>What is the AWAE?</strong></h2><p>Advanced Web Attacks and Exploitation is a course by OffSec to help you develop your exploitation skills in web application penetration testing. This is a course that heavily focuses on white box testing so if you are interested in improving your white box testing skills, this is the course for you. This is a advanced course so you are expected to be familiar with various web technologies as well as basic scripting skills. This is not a course for you to learn the various web vulnerabilities out there, there are many other alternatives like Portswigger Academy. So do check it out if your aim is to learn and be exposed to different types of web vulnerabilities.</p><h2 id="Why-did-I-take-the-AWAE"><a href="#Why-did-I-take-the-AWAE" class="headerlink" title="Why did I take the AWAE?"></a><strong>Why did I take the AWAE?</strong></h2><p>I took the AWAE as I wanted to improve my skills on exploiting vulnerabilities in web applications. I also wanted to learn how to do white box testing after learning it from a theortical perspective. Another factor that pulled me to take it was the appeal of the OSCE3 certification, tt seems like it is working on me :P.</p><h2 id="Course-Overview"><a href="#Course-Overview" class="headerlink" title="Course Overview"></a>Course Overview</h2><p>The course takes you through a series of case studies. In these case studies, you will learn various type of vulnerabilities and how they were discovered from a  white box tetsting point of view. It is very comprehensive as they guide you through these case studies step by step. From there, you would also learn how to create your exploitation script from scratch, this is mainly done in Python. </p><h2 id="Lab-Environment"><a href="#Lab-Environment" class="headerlink" title="Lab Environment"></a>Lab Environment</h2><p>The lab environment was great and stable. I didn’t have any issues with it. Each case studies have their own lab setup. There are also challenge labs where you could put the skills you have learnt throughout the course to the test. I really enjoyed doing the challenge labs as it allow me to see the bigger picture. There were some moments where I was very confused while going through the material but I only understood why it is taught in that way when I attempted to do the challenge labs.</p><h2 id="Exam"><a href="#Exam" class="headerlink" title="Exam"></a>Exam</h2><p>The exam is a <strong>48 Hour</strong> Practical Exam where you have to fulfill certain objectives. Passing it will grant you the OffSec Web Expert (OSWE) certification! While I can’t say much about the exam, what I can tell is that everything tested can be found within the course material. The exam is doable if you understood the vulnerabilities that were taught in the course. You would also need to learn how to chain vulnerabilities so always think about what is the vulnerability at hand and how it can lead you to fulfilling the exam objectives.</p><p>I reached passing score at around the 30 Hours mark!</p><p><img src="/images/OSWE_Cert.png" alt="OSWE Certificate"></p><h2 id="Pros-Cons"><a href="#Pros-Cons" class="headerlink" title="Pros &amp; Cons"></a><strong>Pros &amp; Cons</strong></h2><h3 id="✅-Pros"><a href="#✅-Pros" class="headerlink" title="✅ Pros:"></a>✅ <strong>Pros:</strong></h3><p>✔ <strong>Excellenent Case Studies</strong> with each introducing a particular type of vulnerability.<br>✔ <strong>Course taught with a focus on White Box Testing</strong><br>✔ <strong>Learn how to chain various vulnerabilities together</strong> that can lead to authentication bypass or even Remote Code Execution.</p><h3 id="❌-Cons"><a href="#❌-Cons" class="headerlink" title="❌ Cons:"></a>❌ <strong>Cons:</strong></h3><p>✖ <strong>Pricey</strong>, 90 Days of Lab Access + 1 Exam Attempt cost around US$1749<br>✖ <strong>Not for learning the various typees  of web vulnerabilities</strong>, there are better resources such as Portswigger Academy.</p><h2 id="Should-I-take-AWAE"><a href="#Should-I-take-AWAE" class="headerlink" title="Should I take AWAE?"></a><strong>Should I take AWAE?</strong></h2><p>Take it if you see yourself doing white box testing or source code review. If you are more familiar with web application pentesting, then I would recommend taking it to challenge yourself! </p><h2 id="Is-the-OSCP-needed-to-take-this-course"><a href="#Is-the-OSCP-needed-to-take-this-course" class="headerlink" title="Is the OSCP needed to take this course?"></a>Is the OSCP needed to take this course?</h2><p>While the skills learnt in OSCP may help, I feel it is not necessary to take the OSCP before attempting the OSWE exam. With that being said, one should already be familiar with the common types of web vulnerability out there such as XSS, SQL Injection, LFI…</p><h2 id="Final-Verdict"><a href="#Final-Verdict" class="headerlink" title="Final Verdict"></a><strong>Final Verdict</strong></h2><p>🔥 <strong>Rating: 8&#x2F;10</strong> 🔥  </p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Offensive Security</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Certs</tag>
+      
+      <tag>Offensive Security</tag>
+      
+      <tag>Web Application Security</tag>
+      
+      <tag>Source Code Review</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>CRTO Cert Review</title>
     <link href="/2025/02/06/crto/"/>
     <url>/2025/02/06/crto/</url>
